@@ -1,0 +1,38 @@
+/* Estilos adicionales */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #2E2256; /* Morado oscuro */
+    color: white; /* Letras blancas */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+
+h1 {
+    color: #FFD700; /* Dorado */
+}
+
+h2 {
+    color: #FF69B4; /* Rosa */
+}
+
+ul li {
+    margin-left: 20px;
+}
+
+a {
+    color: #87CEFA; /* Azul claro */
+}
+
+a:hover {
+    color: #ADD8E6; /* Azul claro más claro al pasar el mouse */
+}
+
+.contactos {
+    margin-top: 30px;
+    border-top: 1px solid #DDD;
+    padding-top: 20px;
+}
